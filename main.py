@@ -3,7 +3,7 @@ import pandas as pd
 
 # Add somtre color to the window
 
-sg.theme('DarkBrown2')   # Add a fdftoucdfdfh of colorssdfdfddf
+sg.theme('DarkBrown2')   # Add a fdftoucdfdgdgfdfh of colorssdfdfddf
 
 EXCEL_FILE = 'test2.xlsx'
 df = pd.read_excel(EXCEL_FILE)
